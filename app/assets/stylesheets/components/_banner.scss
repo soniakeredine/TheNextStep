@@ -1,0 +1,79 @@
+.banner {
+  text-align: left;
+    height: 50vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  background-position: center;
+  margin-top: -45px;
+ }
+
+.banner-content{
+    padding: 10% 9% 10% 13%;
+    }
+
+
+#wrapper {
+height:calc(100vh - 50px) !important;
+}
+
+.full-view {
+  height: 70vh !important;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.banner h1 {
+      color: darkblue;
+    opacity: 1;
+    font-size: 30px;
+
+}
+
+
+.explication-text-ban{
+      color: darkblue;
+    opacity: 1;
+        font-size:20px;
+
+}
+
+
+
+.boutton {
+      font-weight: thin;
+
+       color: #fff;
+    background-color: #ee7600;
+    border-color: #ee7600;
+        padding: 17px 17px 12px;
+    margin-left: 19PX;
+    font-size: 14px;
+    border-radius: 4px;
+    transition: .1s;
+    font-weight: 500;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: red;
+  border-color:#ee7600 ;
+}
+
+.email{
+  background: white;
+    border: 1px solid #ccc;
+    color: #444;
+    font-weight: 400;
+    width: 50%;
+    padding: 17px 80px 10PX;
+    margin-bottom: 20px;
+    font-size: 14px;
+    border-radius: 4px;
+    max-width: 992px;
+    -webkit-transition: .2s ease all;
+    -o-transition: .2s ease all;
+    transition: .2s ease all;
+}
+
