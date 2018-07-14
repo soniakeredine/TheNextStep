@@ -1,0 +1,2 @@
+class TestdigitalController < ApplicationController
+end
